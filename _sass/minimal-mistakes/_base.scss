@@ -33,6 +33,20 @@ h6 {
   font-weight: bold;
 }
 
+h1::before,
+h2::before,
+h3::before,
+h4::before,
+h5::before,
+h6::before {
+  display: block; 
+  content: " "; 
+  margin-top: -60px; 
+  height: 60px; 
+  visibility: hidden; 
+  pointer-events: none;
+}
+
 h1 {
   margin-top: 0;
   font-size: $h-size-1;
