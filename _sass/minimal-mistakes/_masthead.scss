@@ -6,7 +6,7 @@
   position: fixed;
   top: 0;
   width: 100%;
-  height: 5em;
+  height: 4em;
   background: white;
   border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
@@ -19,7 +19,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 1em;
+    padding: 0.25em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -58,6 +58,7 @@
 }
 
 .site-subtitle {
+  font-weight: lighter;
   display: block;
   font-size: $type-size-8;
 }
