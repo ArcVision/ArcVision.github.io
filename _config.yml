@@ -15,7 +15,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "zh-CH"
+locale                   : "zh-CN"
 title                    : "Arc Vision"
 title_separator          : "-"
 subtitle                 : "import arcvision as av" # site tagline that appears below site title in masthead
