@@ -1,6 +1,6 @@
 {% assign page = post | default: page %}
 
-{% if page.read_time or page.show_date %}
+{% if page.read_time or page.show_date or page.enable_edit %}
   <p class="page__meta">
 
     {% if page.show_date %}
@@ -29,7 +29,11 @@
       {% else %}
         {{ words | divided_by:words_per_minute }} {{ site.data.ui-text[site.locale].minute_read | default: "minute read" }}
       {% endif %}
+      &nbsp;&nbsp;
     {% endif %}
-
+    <!-- <i class="far fa-pencil" title="Edit"></i> -->
+    {% if page.enable_edit %}
+    <i class="far fa-edit" ></i><a href="https://github.com/ArcVision/ArcVision.github.io/edit/master/{{ page.path }}">{{ site.data.ui-text[site.locale].edit | default: "edit" }}</a>
+    {% endif %}
   </p>
 {% endif %}

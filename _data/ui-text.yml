@@ -1845,5 +1845,6 @@ zh: &DEFAULT_ZH
   search_algolia_no_results  : "No results"
   results_found              : "Result(s) found"
   back_to_top                : "Back to top"
+  edit                       : "编辑"
 zh-CN: 
   <<: *DEFAULT_ZH
