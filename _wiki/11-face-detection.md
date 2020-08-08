@@ -163,8 +163,9 @@ toc: true
 - Golnaz Ghiasi, Charless C. Fowlkes .[Occlusion Coherence: Detecting and Localizing Occluded Faces](https://arxiv.org/pdf/1506.08347) .[J] arXiv preprint arXiv:1506.08347.
 - Ilya Kalinovskii, Vladimir Spitsyn .[Compact Convolutional Neural Network Cascade for Face Detection](https://arxiv.org/pdf/1508.01292) .[J] arXiv preprint arXiv:1508.01292.
 - Rajeev Ranjan, Vishal M. Patel, Rama Chellappa .[A Deep Pyramid Deformable Part Model for Face Detection](https://arxiv.org/pdf/1508.04389) .[J] arXiv preprint arXiv:1508.04389.<br>[code:[fddb/results](http://vis-www.cs.umass.edu/fddb/results.html)]
-- S. Yang, P. Luo, C. C. Loy, and X. Tang, “From Facial Parts Responses to Face Detection: A Deep Learning Approach,” [Online](http://arxiv.org/abs/1509.06451)
-- S. Yang, P. Luo, C. C. Loy, and X. Tang, “**WIDER FACE**: A Face Detection Benchmark,” [Online](http://arxiv.org/abs/1511.06523)
+- From Facial Parts Responses to Face Detection: A Deep Learning Approach [Online](http://arxiv.org/abs/1509.06451)
+- WIDER FACE: A Face Detection Benchmark [Online](http://arxiv.org/abs/1511.06523)
+
 
 
 
