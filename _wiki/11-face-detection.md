@@ -16,12 +16,8 @@ toc: true
 ### 2020
 
 - B. Zhang et al., “ASFD: Automatic and Scalable Face Detector,” [Online](http://arxiv.org/abs/2003.11228)
-- Song, Guanglu, Yu Liu, Yuhang Zang, Xiaogang Wang, Biao Leng, and Qingsheng Yuan. “KPNet: Towards Minimal Face Detector.” ArXiv:2003.07543 [Cs], March 17, 2020. http://arxiv.org/abs/2003.07543.
-
-- Guanglu Song, Yu Liu, Yuhang Zang, Xiaogang Wang, Biao Leng, Qingsheng Yuan .[KPNet: Towards Minimal Face Detector](https://arxiv.org/pdf/2003.07543) .[J] arXiv preprint arXiv:2003.07543
-- Shubham Agrawal, Anuj Pahuja, Simon Lucey .[High Accuracy Face Geometry Capture using a Smartphone Video](https://arxiv.org/pdf/2003.08583) .[J] arXiv preprint arXiv:2003.08583
-- Bin Zhang, Jian Li, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yili Xia, Wenjiang Pei, Rongrong Ji .[ASFD: Automatic and Scalable Face Detector](https://arxiv.org/pdf/2003.11228) .[J] arXiv preprint arXiv:2003.11228
-- Dmitry Yashunin, Tamir Baydasov, Roman Vlasov .[MaskFace: multi-task face and landmark detector](https://arxiv.org/pdf/2005.09412) [J]. arXiv preprint arXiv:2005.09412.
+- G. Song, Y. Liu, Y. Zang, X. Wang, B. Leng, and Q. Yuan, “KPNet: Towards Minimal Face Detector,” [Online](http://arxiv.org/abs/2003.07543)
+- B. Zhang et al., “ASFD: Automatic and Scalable Face Detector,” [Online](http://arxiv.org/abs/2003.11228)
 
 ### 2019
 - Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramakrishnan .[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://arxiv.org/pdf/1901.01153) .[J] arXiv preprint arXiv:1901.01153.
