@@ -1,0 +1,34 @@
+# main links
+main:
+  - title: "Wiki"
+    url: /wiki/face-detection/
+  - title: "Posts"
+    url: /year-archive/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+
+wiki:
+  - title: "基础知识"
+    children:
+      - title: "数学基础"
+        url: /wiki/math/
+  - title: "人脸技术"
+    children:
+      - title: "人脸检测"
+        url: /wiki/face-detection/
+      - title: "人脸对齐"
+        url: /wiki/face-alignment/
+      - title: "人脸识别"
+        url: /wiki/face-recognition/
+      - title: "属性识别"
+        url: /wiki/face-attribute/
+      - title: "人脸解析"
+        url: /wiki/face-parsing/
+      
