@@ -209,6 +209,9 @@ plugins:
   - jekyll-include-cache
   - jekyll-last-modified-at
 
+last-modified-at:
+    date-format: '%Y-%m-%d/'
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
