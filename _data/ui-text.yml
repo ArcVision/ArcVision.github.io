@@ -1817,11 +1817,11 @@ zh: &DEFAULT_ZH
   meta_label                 :
   tags_label                 : "标签:"
   categories_label           : "分类:"
-  date_label                 : "最新更新:"
+  date_label                 : "更新于:"
   comments_label             : 
   comments_title             : "Comments"
   more_label                 : "Learn more"
-  related_label              : "You may also enjoy"
+  related_label              : "其他文章"
   follow_label               : "Follow:"
   feed_label                 : "Feed"
   powered_by                 : "Powered by"
