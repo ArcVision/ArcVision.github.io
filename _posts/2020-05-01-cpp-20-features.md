@@ -1,11 +1,11 @@
 ---
 layout: single
-title: C++20 新增特性
+title: C++ 20 新增特性
 toc: true
 tags:
   - C++
 redirect_from:
-  - /c-20-features/
+  - /cpp-20-features/
 date: 2020-05-01 14:02 +0800
 ---
 ## 新增关键字(keywords)
@@ -496,7 +496,7 @@ Data d{ .aString = "Hello" };
 - **一般情况**: 自动生成所有的比较操作符, 如果对象是结构体则逐个比较, 可以下面代码代替所有的比较运算符
   - `auto X::operator<=>(const Y&) = default;`
 - **高级情况**:  指定返回类型(支持6种所有的比较运算符)  
-  ![](/assets/img/C++20-partial-ordering.png)
+  ![](/assets/images/C++20-partial-ordering.png)
 
 **示例**:  
 ```c++
@@ -527,7 +527,7 @@ public:
 - 标准库类型支持 <=>
   - vector, string, map, set, sub_match, …
 - 例如:  
-  ![](/assets/img/C++20-spaceship-operator-Example.png)
+  ![](/assets/images/C++20-spaceship-operator-Example.png)
 
 ### 范围 for 循环语句支持初始化
 
