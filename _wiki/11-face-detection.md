@@ -14,23 +14,14 @@ toc: true
 由于论文实在再多, 这里只列出本人认为较好和里程碑式的论文.
 
 ### 2020
-- Ruben Tolosana, Ruben Vera-Rodriguez, Julian Fierrez, Aythami Morales, Javier Ortega-Garcia .[DeepFakes and Beyond: A Survey of Face Manipulation and Fake Detection](https://arxiv.org/pdf/2001.00179) .[J] arXiv preprint arXiv:2001.00179
-- Seyed Mehdi Iranmanesh, Ali Dabouei, Sobhan Soleymani, Hadi Kazemi, Nasser M. Nasrabadi .[Robust Facial Landmark Detection via Aggregation on Geometrically Manipulated Faces](https://arxiv.org/pdf/2001.03113) .[J] arXiv preprint arXiv:2001.03113
-- Yihao Huang, Felix Juefei-Xu, Run Wang, Xiaofei Xie, Lei Ma, Jianwen Li, Weikai Miao, Yang Liu, Geguang Pu .[FakeLocator: Robust Localization of GAN-Based Face Manipulations via Semantic Segmentation Networks with Bells and Whistles](https://arxiv.org/pdf/2001.09598) .[J] arXiv preprint arXiv:2001.09598
-- Zhengzhe Liu, Xiaojuan Qi, Philip Torr .[Global Texture Enhancement for Fake Face Detection in the Wild](https://arxiv.org/pdf/2002.00133) .[J] arXiv preprint arXiv:2002.00133
+
+- B. Zhang et al., “ASFD: Automatic and Scalable Face Detector,” [Online](http://arxiv.org/abs/2003.11228)
+- Song, Guanglu, Yu Liu, Yuhang Zang, Xiaogang Wang, Biao Leng, and Qingsheng Yuan. “KPNet: Towards Minimal Face Detector.” ArXiv:2003.07543 [Cs], March 17, 2020. http://arxiv.org/abs/2003.07543.
+
 - Guanglu Song, Yu Liu, Yuhang Zang, Xiaogang Wang, Biao Leng, Qingsheng Yuan .[KPNet: Towards Minimal Face Detector](https://arxiv.org/pdf/2003.07543) .[J] arXiv preprint arXiv:2003.07543
 - Shubham Agrawal, Anuj Pahuja, Simon Lucey .[High Accuracy Face Geometry Capture using a Smartphone Video](https://arxiv.org/pdf/2003.08583) .[J] arXiv preprint arXiv:2003.08583
-- Zhiwen Shao, Zhilei Liu, Jianfei Cai, Lizhuang Ma .[JAA-Net: Joint Facial Action Unit Detection and Face Alignment via Adaptive Attention](https://arxiv.org/pdf/2003.08834) .[J] arXiv preprint arXiv:2003.08834
 - Bin Zhang, Jian Li, Yabiao Wang, Ying Tai, Chengjie Wang, Jilin Li, Feiyue Huang, Yili Xia, Wenjiang Pei, Rongrong Ji .[ASFD: Automatic and Scalable Face Detector](https://arxiv.org/pdf/2003.11228) .[J] arXiv preprint arXiv:2003.11228
-- Hadi Mansourifar, Weidong Shi .[One-Shot GAN Generated Fake Face Detection](https://arxiv.org/pdf/2003.12244) .[J] arXiv preprint arXiv:2003.12244
-- Nicolò Bonettini, Edoardo Daniele Cannas, Sara Mandelli, Luca Bondi, Paolo Bestagini, Stefano Tubaro .[Video Face Manipulation Detection Through Ensemble of CNNs](https://arxiv.org/pdf/2004.07676) [J]. arXiv preprint arXiv:2004.07676.
-- Nika Dogonadze, Jana Obernosterer, Ji Hou .[Deep Face Forgery Detection](https://arxiv.org/pdf/2004.11804) [J]. arXiv preprint arXiv:2004.11804.
-- Daniel Mas Montserrat, Hanxiang Hao, S. K. Yarlagadda, Sriram Baireddy, Ruiting Shao, János Horváth, Emily Bartusiak, Justin Yang, David Güera, Fengqing Zhu, Edward J. Delp .[Deepfakes Detection with Automatic Face Weighting](https://arxiv.org/pdf/2004.12027) [J]. arXiv preprint arXiv:2004.12027.
-- Zehao Chen, Hua Yang .[Manipulated Face Detector: Joint Spatial and Frequency Domain Attention Network](https://arxiv.org/pdf/2005.02958) [J]. arXiv preprint arXiv:2005.02958.
-- Mingjie Jiang, Xinqi Fan .[RetinaMask: A Face Mask detector](https://arxiv.org/pdf/2005.03950) [J]. arXiv preprint arXiv:2005.03950.
-- Zhiqing Guo, Gaobo Yang, Jiyou Chen, Xingming Sun .[Fake Face Detection via Adaptive Residuals Extraction Network](https://arxiv.org/pdf/2005.04945) [J]. arXiv preprint arXiv:2005.04945.
 - Dmitry Yashunin, Tamir Baydasov, Roman Vlasov .[MaskFace: multi-task face and landmark detector](https://arxiv.org/pdf/2005.09412) [J]. arXiv preprint arXiv:2005.09412.
-- Gereon Fox, Wentao Liu, Hyeongwoo Kim, Hans-Peter Seidel, Mohamed Elgharib, Christian Theobalt .[VideoForensicsHQ: Detecting High-quality Manipulated Face Videos](https://arxiv.org/pdf/2005.10360) [J]. arXiv preprint arXiv:2005.10360.
 
 ### 2019
 - Vishal Kaushal, Rishabh Iyer, Khoshrav Doctor, Anurag Sahoo, Pratik Dubal, Suraj Kothawade, Rohan Mahadev, Kunal Dargan, Ganesh Ramakrishnan .[Demystifying Multi-Faceted Video Summarization: Tradeoff Between Diversity,Representation, Coverage and Importance](https://arxiv.org/pdf/1901.01153) .[J] arXiv preprint arXiv:1901.01153.
