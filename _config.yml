@@ -30,10 +30,11 @@ masthead_title           : # overrides the website title displayed in the masthe
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "custom"  #"disqus" # false (default), , "discourse", "facebook", "staticman", "staticman_v2", "utterances", "custom"
+  provider               : "livere"  #"disqus" # false (default), , "discourse", "facebook", "staticman", "staticman_v2", "utterances", "livere", "custom"
   disqus:
     shortname            : "arcvision" # https://help.disqus.com/customer/portal/articles/466208-what-s-a-shortname-
-
+  livere:
+    uid                  : "MTAyMC81MTI3Ny8yNzc1OA=="
 reCaptcha:
   siteKey                :
   secret                 :
