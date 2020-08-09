@@ -12,6 +12,8 @@ toc: true
 
 由于论文实在再多, 这里只列出本人认为较好和里程碑式的论文.
 
+> 中括号中内容表示简称, 不是标题的一部分
+
 ### 2020
 
 - **ASFD**: Automatic and Scalable Face Detector [Online](http://arxiv.org/abs/2003.11228)
@@ -20,9 +22,9 @@ toc: true
 ### 2019
 
 - **[VIM-FD]** Robust and High Performance Face Detector [Online](http://arxiv.org/abs/1901.02350)
-- V. A. Sindagi and V. M. Patel, “DAFE-FD: Density Aware Feature Enrichment for Face Detection,” [Online](http://arxiv.org/abs/1901.05375)
-- S. Zhang et al., “Improved Selective Refinement Network for Face Detection,” [Online](http://arxiv.org/abs/1901.06651)
-- Nguyen Van Quang, Hiromasa Fujihara .[Revisiting a single-stage method for face detection](https://arxiv.org/pdf/1902.01559) .[J] arXiv preprint arXiv:1902.01559.
+- **DAFE-FD**: Density Aware Feature Enrichment for Face Detection [Online](http://arxiv.org/abs/1901.05375)
+- **[SRN]** Improved Selective Refinement Network for Face Detection [Online](http://arxiv.org/abs/1901.06651)
+- [Revisiting a single-stage method for face detection](https://arxiv.org/pdf/1902.01559)
 - Jianglin Fu, Saeed Ranjbar Alvar, Ivan V. Bajic, Rodney G. Vaughan .[FDDB-360: Face Detection in 360-degree Fisheye Images](https://arxiv.org/pdf/1902.02777) .[J] arXiv preprint arXiv:1902.02777.
 - Bindita Chaudhuri, Noranart Vesdapunt, Baoyuan Wang .[Joint Face Detection and Facial Motion Retargeting for Multiple Faces](https://arxiv.org/pdf/1902.10744) .[J] arXiv preprint arXiv:1902.10744.
 - Qiushan Guo, Yuan Dong, Yu Guo, Hongliang Bai .[MSFD:Multi-Scale Receptive Field Face Detector](https://arxiv.org/pdf/1903.04147) .[J] arXiv preprint arXiv:1903.04147.
