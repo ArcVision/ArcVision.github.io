@@ -14,9 +14,8 @@ toc: true
 
 ### 2020
 
-- B. Zhang et al., “ASFD: Automatic and Scalable Face Detector,” [Online](http://arxiv.org/abs/2003.11228)
-- G. Song, Y. Liu, Y. Zang, X. Wang, B. Leng, and Q. Yuan, “KPNet: Towards Minimal Face Detector,” [Online](http://arxiv.org/abs/2003.07543)
-- B. Zhang et al., “ASFD: Automatic and Scalable Face Detector,” [Online](http://arxiv.org/abs/2003.11228)
+- **ASFD**: Automatic and Scalable Face Detector [Online](http://arxiv.org/abs/2003.11228)
+- **KPNet**: Towards Minimal Face Detector [Online](http://arxiv.org/abs/2003.07543)
 
 ### 2019
 
