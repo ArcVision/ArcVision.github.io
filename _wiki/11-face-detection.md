@@ -19,7 +19,7 @@ toc: true
 
 ### 2019
 
-- Y. Zhang, X. Xu, and X. Liu, “Robust and High Performance Face Detector,” [Online](http://arxiv.org/abs/1901.02350)
+- **[VIM-FD]** Robust and High Performance Face Detector [Online](http://arxiv.org/abs/1901.02350)
 - V. A. Sindagi and V. M. Patel, “DAFE-FD: Density Aware Feature Enrichment for Face Detection,” [Online](http://arxiv.org/abs/1901.05375)
 - S. Zhang et al., “Improved Selective Refinement Network for Face Detection,” [Online](http://arxiv.org/abs/1901.06651)
 - Nguyen Van Quang, Hiromasa Fujihara .[Revisiting a single-stage method for face detection](https://arxiv.org/pdf/1902.01559) .[J] arXiv preprint arXiv:1902.01559.
