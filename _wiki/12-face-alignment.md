@@ -10,10 +10,10 @@ toc: true
 ## 论文
 
 ### 2020
-- Huabin Wang, Rui Cheng, Jian Zhou, Liang Tao, Hon Keung Kwan .[Multistage Model for Robust Face Alignment Using Deep Neural Networks](https://arxiv.org/pdf/2002.01075) .[J] arXiv preprint arXiv:2002.01075
-- Abhinav Kumar, Tim K. Marks, Wenxuan Mou, Ye Wang, Michael Jones, Anoop Cherian, Toshiaki Koike-Akino, Xiaoming Liu, Chen Feng .[LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood](https://arxiv.org/pdf/2004.02980) [J]. arXiv preprint arXiv:2004.02980.
-- Mostafa Sadeghi, Sylvain Guy, Adrien Raison, Xavier Alameda-Pineda, Radu Horaud .[Unsupervised Performance Analysis of 3D Face Alignment](https://arxiv.org/pdf/2004.06550) [J]. arXiv preprint arXiv:2004.06550.
-- Arnaud Dapogny, Kévin Bailly, Matthieu Cord .[Deep Entwined Learning Head Pose and Face Alignment Inside an Attentional Cascade with Doubly-Conditional fusion](https://arxiv.org/pdf/2004.06558) [J]. arXiv preprint arXiv:2004.06558.
+- [Multistage Model for Robust Face Alignment Using Deep Neural Networks](https://arxiv.org/pdf/2002.01075)
+- [LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood](https://arxiv.org/pdf/2004.02980)
+- [Unsupervised Performance Analysis of 3D Face Alignment](https://arxiv.org/pdf/2004.06550)
+- [Deep Entwined Learning Head Pose and Face Alignment Inside an Attentional Cascade with Doubly-Conditional fusion](https://arxiv.org/pdf/2004.06558)
 
 ### 2019
 - Roberto Valle (1), José M. Buenaposada (2), Antonio Valdés (3), Luis Baumela (1) ((1) Universidad Polit\'ecnica de Madrid, (2) Universidad Rey Juan Carlos, (3) Universidad Complutense de Madrid)     .[Face Alignment using a 3D Deeply-initialized Ensemble of Regression Trees](https://arxiv.org/pdf/1902.01831) .[J] arXiv preprint arXiv:1902.01831.
@@ -32,6 +32,8 @@ toc: true
 - Yuanyuan Xu, Wan Yan, Haixin Sun, Genke Yang, Jiliang Luo.[CenterFace: Joint Face Detection and Alignment Using Face as Point](https://arxiv.org/pdf/1911.03599) [J]. arXiv preprint arXiv:1911.03599.
 - Bjoern Browatzki, Christian Wallraven .[3FabRec: Fast Few-shot Face alignment by Reconstruction](https://arxiv.org/pdf/1911.10448) [J]. arXiv preprint arXiv:1911.10448.
 - Congcong Zhu, Hao Liu, Zhenhua Yu, Xuehong Sun .[Towards Omni-Supervised Face Alignment for Large Scale Unlabeled Videos](https://arxiv.org/pdf/1912.07243) [J]. arXiv preprint arXiv:1912.07243.
+
+- [Efficient and accurate face alignment by global regression and cascaded local refinement](https://openaccess.thecvf.com/content_CVPRW_2019/html/AMFG/Su_Efficient_and_Accurate_Face_Alignment_by_Global_Regression_and_Cascaded_CVPRW_2019_paper.html)
 
 ### 2018
 - Xi Peng, Rogerio S. Feris, Xiaoyu Wang, Dimitris N. Metaxas .[RED-Net: A Recurrent Encoder-Decoder Network for Video-based Face  Alignment](https://arxiv.org/pdf/1801.06066) .[J] arXiv preprint arXiv:1801.06066.
