@@ -34,7 +34,7 @@ toc: true
 
 - **ASFD**: Automatic and Scalable Face Detector [Online](http://arxiv.org/abs/2003.11228)
 - **KPNet**: Towards Minimal Face Detector [Online](http://arxiv.org/abs/2003.07543)
-- [**HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.html)
+
 ### 2019
 
 - **[VIM-FD]** Robust and High Performance Face Detector [Online](http://arxiv.org/abs/1901.02350)
@@ -67,7 +67,8 @@ toc: true
 - Hongxing Gao, Wei Tao, Dongchao Wen, Junjie Liu, Tse-Wei Chen, Kinya Osa, Masami Kato .[DupNet: Towards Very Tiny Quantized CNN with Improved Accuracy for Face Detection](https://arxiv.org/pdf/1911.05341) [J]. arXiv preprint arXiv:1911.05341.
 - Samuel W. F. Earp, Pavit Noinongyao, Justin A. Cairns, Ankush Ganguly .[Face Detection with Feature Pyramids and Landmarks](https://arxiv.org/pdf/1912.00596) [J]. arXiv preprint arXiv:1912.00596.
 - Xiao Yang, Fangyun Wei, Hongyang Zhang, Xiang Ming, Jun Zhu .[Design and Interpretation of Universal Adversarial Patches in Face Detection](https://arxiv.org/pdf/1912.05021) [J]. arXiv preprint arXiv:1912.05021.
-- Yang Liu, Xu Tang, Xiang Wu, Junyu Han, Jingtuo Liu, Errui Ding .[HAMBox: Delving into Online High-quality Anchors Mining for Detecting Outer Faces](https://arxiv.org/pdf/1912.09231) [J]. arXiv preprint arXiv:1912.09231.
+- [**HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.html)
+
 
 ### 2018
 - Fei Yang, Qian Zhang, Miaohui Wang, Guoping Qiu .[Quality Classified Image Analysis with Application to Face Detection and  Recognition](https://arxiv.org/pdf/1801.06445) .[J] arXiv preprint arXiv:1801.06445.
