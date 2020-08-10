@@ -7,6 +7,10 @@ last_modified_at: 2020-08-08
 toc: true
 ---
 
+## 开源方案
+
+- [https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
+- [Face-Detector-1MB-with-landmark](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 
 ## 论文
 
