@@ -34,7 +34,7 @@ toc: true
 
 - **ASFD**: Automatic and Scalable Face Detector [Online](http://arxiv.org/abs/2003.11228)
 - **KPNet**: Towards Minimal Face Detector [Online](http://arxiv.org/abs/2003.07543)
-
+- [**HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.html)
 ### 2019
 
 - **[VIM-FD]** Robust and High Performance Face Detector [Online](http://arxiv.org/abs/1901.02350)
