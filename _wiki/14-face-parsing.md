@@ -9,3 +9,7 @@ toc: true
 
 
 ## 论文
+
+### 2019  
+
+- [Face Parsing with RoI **Tanh-Warping**](https://arxiv.org/pdf/1906.01342.pdf)
