@@ -12,6 +12,18 @@ toc: true
 - [https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 - [Face-Detector-1MB-with-landmark](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 
+## Benchmarks
+
+- [CVPR2016] [**WIDER FACE**：A Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
+- AFLW：ICCVW2012_Annotated facial landmarks in the wild：A large-scale, real-world database for facial landmark localization
+- FDDB：UMCS2010_FDDB：A Benchmark for Face Detection in Unconstrained Settings
+- AFW：CVPR2012_Face Detection, Pose Estimation, and Landmark Localization in the Wild
+- Pascal Face：IVC2014_Face detection by structural models
+- MALF：ICFG2015_Fine-grained evaluation on face detection in the wild
+- 4K-Face：arxiv2018_SFace：An Efficient Network for Face Detection in Large Scale Variations
+- MAFA：CVPR2017_Detecting Masked Faces in the Wild with LLE-CNNs
+- arxiv2019_FDDB-360：Face Detection in 360-degree Fisheye Images
+
 ## 论文
 
 由于论文实在再多, 这里只列出本人认为较好和里程碑式的论文.
