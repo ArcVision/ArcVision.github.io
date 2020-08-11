@@ -20,7 +20,7 @@ toc: true
 - **2016** [**WIDER FACE**：A Face Detection Benchmark](http://shuoyang1213.me/WIDERFACE/)
 - **2015** [Fine-grained evaluation on face detection in the wild(**MALF** )](http://www.cbsr.ia.ac.cn/faceevaluation/)
 - **2011** [Annotated Facial Landmarks in the Wild (**AFLW**)](https://www.tugraz.at/institute/icg/research/team-bischof/lrs/downloads/aflw/)
-- **2010** [**FDDB**: Face Detection Data Set and Benchmark](http://vis-www.cs.umass.edu/fddb/) | [Reference](http://vis-www.cs.umass.edu/fddb/fddb.pdf)
+- **2010** [**FDDB**: Face Detection Data Set and Benchmark](http://vis-www.cs.umass.edu/fddb/) / [Reference](http://vis-www.cs.umass.edu/fddb/fddb.pdf)
 
 ## 论文
 
