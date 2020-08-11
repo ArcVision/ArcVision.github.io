@@ -39,30 +39,30 @@ toc: true
 - **DAFE-FD**: Density Aware Feature Enrichment for Face Detection [Online](http://arxiv.org/abs/1901.05375)
 - **[SRN]** Improved Selective Refinement Network for Face Detection [Online](http://arxiv.org/abs/1901.06651)
 - [Revisiting a single-stage method for face detection](https://arxiv.org/pdf/1902.01559)
-- Jianglin Fu, Saeed Ranjbar Alvar, Ivan V. Bajic, Rodney G. Vaughan .[FDDB-360: Face Detection in 360-degree Fisheye Images](https://arxiv.org/pdf/1902.02777) .[J] arXiv preprint arXiv:1902.02777.
-- Bindita Chaudhuri, Noranart Vesdapunt, Baoyuan Wang .[Joint Face Detection and Facial Motion Retargeting for Multiple Faces](https://arxiv.org/pdf/1902.10744) .[J] arXiv preprint arXiv:1902.10744.
-- Qiushan Guo, Yuan Dong, Yu Guo, Hongliang Bai .[MSFD:Multi-Scale Receptive Field Face Detector](https://arxiv.org/pdf/1903.04147) .[J] arXiv preprint arXiv:1903.04147.
-- Mohammad Nayeem Teli, Bruce A. Draper, J. Ross Beveridge .[Face Detection in Repeated Settings](https://arxiv.org/pdf/1903.08649) .[J] arXiv preprint arXiv:1903.08649.
-- Zhihang Li, Xu Tang, Junyu Han, Jingtuo Liu, Ran He .[PyramidBox++: High Performance Detector for Finding Tiny Face](https://arxiv.org/pdf/1904.00386) .[J] arXiv preprint arXiv:1904.00386.
-- Yonghao He, Dezhong Xu, Lifang Wu, Meng Jian, Shiming Xiang, Chunhong Pan .[LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/pdf/1904.10633) .[J] arXiv preprint arXiv:1904.10633.
-- Lucas Faria Porto, Laise Nascimento Correia Lima, Marta Flores, Andrea Valsecchi, Oscar Ibanez, Carlos Eduardo Machado Palhares, Flavio de Barros Vidal .[Automatic cephalometric landmarks detection on frontal faces: an approach based on supervised learning techniques](https://arxiv.org/pdf/1904.10816) .[J] arXiv preprint arXiv:1904.10816.
-- Heming Zhang, Xiaolong Wang, Jingwen Zhu, C.-C. Jay Kuo .[Accelerating Proposal Generation Network for Fast Face Detection on Mobile Devices](https://arxiv.org/pdf/1904.12094) .[J] arXiv preprint arXiv:1904.12094.
-- Ekraam Sabir, Jiaxin Cheng, Ayush Jaiswal, Wael AbdAlmageed, Iacopo Masi, Prem Natarajan .[Recurrent Convolutional Strategies for Face Manipulation Detection in Videos](https://arxiv.org/pdf/1905.00582) .[J] arXiv preprint arXiv:1905.00582.
-- Jiankang Deng, Jia Guo, Yuxiang Zhou, Jinke Yu, Irene Kotsia, Stefanos Zafeiriou .[RetinaFace: Single-stage Dense Face Localisation in the Wild](https://arxiv.org/pdf/1905.00641) .[J] arXiv preprint arXiv:1905.00641.
-- Faen Zhang, Xinyu Fan, Guo Ai, Jianfei Song, Yongqiang Qin, Jiahong Wu .[Accurate Face Detection for High Performance](https://arxiv.org/pdf/1905.01585) .[J] arXiv preprint arXiv:1905.01585.
-- Emily Denton, Ben Hutchinson, Margaret Mitchell, Timnit Gebru .[Detecting Bias with Generative Counterfactual Face Attribute Augmentation](https://arxiv.org/pdf/1906.06439) .[J] arXiv preprint arXiv:1906.06439.
-- YoungJoon Yoo, Dongyoon Han, Sangdoo Yun .[EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://arxiv.org/pdf/1906.06579) .[J] arXiv preprint arXiv:1906.06579.
-- 【Dataset】Jianglin Fu, Ivan V. Bajic, Rodney G. Vaughan .[Datasets for Face and Object Detection in Fisheye Images](https://arxiv.org/pdf/1906.11942) .[J] arXiv preprint arXiv:1906.11942.
-- Valentin Bazarevsky, Yury Kartynnik, Andrey Vakunov, Karthik Raveendran, Matthias Grundmann .[BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/pdf/1907.05047) .[J] arXiv preprint arXiv:1907.05047.
-- Amit Kumar, Rama Chellappa .[Landmark Detection in Low Resolution Faces with Semi-Supervised Learning](https://arxiv.org/pdf/1907.13255) .[J] arXiv preprint arXiv:1907.13255.
-- Yujiang Wang, Jie Shen, Mingzhi Dong, Yang Wu, Shiyang Cheng, Maja Pantic .[Dynamic Face Video Segmentation via Reinforcement Learning](https://arxiv.org/pdf/1907.01296) .[J] arXiv preprint arXiv:1907.01296.
-- Shifeng Zhang, Cheng Chi, Zhen Lei, Stan Z. Li .[RefineFace: Refinement Neural Network for High Performance Face Detection](https://arxiv.org/pdf/1909.04376) .[J] arXiv preprint arXiv:1909.04376.
-- Joel Stehouwer, Hao Dang, Feng Liu, Xiaoming Liu, Anil Jain .[On the Detection of Digital Face Manipulation](https://arxiv.org/pdf/1910.01717) .[J] arXiv preprint arXiv:1910.01717.
-- Kritaphat Songsri-in, Stefanos Zafeiriou .[Complement Face Forensic Detection and Localization with FacialLandmarks](https://arxiv.org/pdf/1910.05455) .[J] arXiv preprint arXiv:1910.05455.
-- Mohammad Iqbal Nouyed, Guodong Guo .[Face Detection on Surveillance Images](https://arxiv.org/pdf/1910.11121) .[J] arXiv preprint arXiv:1910.11121.
-- Iacopo Masi, Joe Mathai, Wael AbdAlmageed.[Learning Structure via Consensus for Face Segmentation and Parsing](https://arxiv.org/pdf/1911.00957) [J]. arXiv preprint arXiv:1911.00957.
-- Souhail Bakkali, Zuheng Ming, Muhammad Muzzamil Luqman, Jean-Christophe Burie.[Face Detection in Camera Captured Images of Identity Documents under Challenging Conditions](https://arxiv.org/pdf/1911.03567) [J]. arXiv preprint arXiv:1911.03567.
-- Hongxing Gao, Wei Tao, Dongchao Wen, Junjie Liu, Tse-Wei Chen, Kinya Osa, Masami Kato .[DupNet: Towards Very Tiny Quantized CNN with Improved Accuracy for Face Detection](https://arxiv.org/pdf/1911.05341) [J]. arXiv preprint arXiv:1911.05341.
+- [FDDB-360: Face Detection in 360-degree Fisheye Images](https://arxiv.org/pdf/1902.02777)
+- [Joint Face Detection and Facial Motion Retargeting for Multiple Faces](https://arxiv.org/pdf/1902.10744)
+- [MSFD:Multi-Scale Receptive Field Face Detector](https://arxiv.org/pdf/1903.04147)
+- [Face Detection in Repeated Settings](https://arxiv.org/pdf/1903.08649)
+- [PyramidBox++: High Performance Detector for Finding Tiny Face](https://arxiv.org/pdf/1904.00386)
+- [LFFD: A Light and Fast Face Detector for Edge Devices](https://arxiv.org/pdf/1904.10633)
+- [Automatic cephalometric landmarks detection on frontal faces: an approach based on supervised learning techniques](https://arxiv.org/pdf/1904.10816)
+- [Accelerating Proposal Generation Network for Fast Face Detection on Mobile Devices](https://arxiv.org/pdf/1904.12094)
+- [Recurrent Convolutional Strategies for Face Manipulation Detection in Videos](https://arxiv.org/pdf/1905.00582)
+- [RetinaFace: Single-stage Dense Face Localisation in the Wild](https://arxiv.org/pdf/1905.00641)
+- [Accurate Face Detection for High Performance](https://arxiv.org/pdf/1905.01585) 
+- [Detecting Bias with Generative Counterfactual Face Attribute Augmentation](https://arxiv.org/pdf/1906.06439)
+- [EXTD: Extremely Tiny Face Detector via Iterative Filter Reuse](https://arxiv.org/pdf/1906.06579)
+- 【Dataset】[Datasets for Face and Object Detection in Fisheye Images](https://arxiv.org/pdf/1906.11942)
+- [BlazeFace: Sub-millisecond Neural Face Detection on Mobile GPUs](https://arxiv.org/pdf/1907.05047)
+- [Landmark Detection in Low Resolution Faces with Semi-Supervised Learning](https://arxiv.org/pdf/1907.13255)
+- [Dynamic Face Video Segmentation via Reinforcement Learning](https://arxiv.org/pdf/1907.01296)
+- [RefineFace: Refinement Neural Network for High Performance Face Detection](https://arxiv.org/pdf/1909.04376)
+- [On the Detection of Digital Face Manipulation](https://arxiv.org/pdf/1910.01717)
+- [Complement Face Forensic Detection and Localization with FacialLandmarks](https://arxiv.org/pdf/1910.05455) 
+- [Face Detection on Surveillance Images](https://arxiv.org/pdf/1910.11121)
+- [Learning Structure via Consensus for Face Segmentation and Parsing](https://arxiv.org/pdf/1911.00957)
+- [Face Detection in Camera Captured Images of Identity Documents under Challenging Conditions](https://arxiv.org/pdf/1911.03567)
+- [DupNet: Towards Very Tiny Quantized CNN with Improved Accuracy for Face Detection](https://arxiv.org/pdf/1911.05341)
 - Samuel W. F. Earp, Pavit Noinongyao, Justin A. Cairns, Ankush Ganguly .[Face Detection with Feature Pyramids and Landmarks](https://arxiv.org/pdf/1912.00596) [J]. arXiv preprint arXiv:1912.00596.
 - Xiao Yang, Fangyun Wei, Hongyang Zhang, Xiang Ming, Jun Zhu .[Design and Interpretation of Universal Adversarial Patches in Face Detection](https://arxiv.org/pdf/1912.05021) [J]. arXiv preprint arXiv:1912.05021.
 - [**HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.html)
