@@ -7,6 +7,7 @@ toc: true
 
 ## PyTorch
 
+### 分布式训练  
 - 分布式训练相关资料  
   - [Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
 - 分布式训练的时候， PyTorch 时如何 reduce loss 的， 对于学习率是否需要处理？  
