@@ -7,12 +7,22 @@ last_modified_at: 2020-08-08
 toc: true
 ---
 
+
+## 典型问题
+
+### 正负样本的确定
+
+[HAMBox][HAMBox]
+
+[HAMBox]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.pdf
+
+
 ## 开源方案
 
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
 - [Face-Detector-1MB-with-landmark](https://github.com/biubug6/Face-Detector-1MB-with-landmark)
 
-## Datasets & Benchmarks
+## 数据集与评测
 
 - **2019** [FDDB-360：Face Detection in 360-degree Fisheye Images](https://researchdata.sfu.ca/islandora/object/sfu%3A2722)
 - **2018** [4K-Face：An Efficient Network for Face Detection in Large Scale Variations](https://github.com/wjfwzzc/4K-Face)
@@ -23,8 +33,6 @@ toc: true
 - **2010** [**FDDB**: Face Detection Data Set and Benchmark](http://vis-www.cs.umass.edu/fddb/) / [Reference](http://vis-www.cs.umass.edu/fddb/fddb.pdf)
 
 ## 论文
-
-由于论文实在再多, 这里只列出本人认为较好和里程碑式的论文.
 
 > 中括号中内容表示简称, 不是标题的一部分
 
@@ -63,28 +71,25 @@ toc: true
 - [Learning Structure via Consensus for Face Segmentation and Parsing](https://arxiv.org/pdf/1911.00957)
 - [Face Detection in Camera Captured Images of Identity Documents under Challenging Conditions](https://arxiv.org/pdf/1911.03567)
 - [DupNet: Towards Very Tiny Quantized CNN with Improved Accuracy for Face Detection](https://arxiv.org/pdf/1911.05341)
-- Samuel W. F. Earp, Pavit Noinongyao, Justin A. Cairns, Ankush Ganguly .[Face Detection with Feature Pyramids and Landmarks](https://arxiv.org/pdf/1912.00596) [J]. arXiv preprint arXiv:1912.00596.
-- Xiao Yang, Fangyun Wei, Hongyang Zhang, Xiang Ming, Jun Zhu .[Design and Interpretation of Universal Adversarial Patches in Face Detection](https://arxiv.org/pdf/1912.05021) [J]. arXiv preprint arXiv:1912.05021.
-- [**HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection](https://openaccess.thecvf.com/content_CVPR_2020/html/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.html)
+- [Face Detection with Feature Pyramids and Landmarks](https://arxiv.org/pdf/1912.00596)
+- [Design and Interpretation of Universal Adversarial Patches in Face Detection](https://arxiv.org/pdf/1912.05021)
+- [**HAMBox**: Delving Into Mining High-Quality Anchors on Face Detection](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.pdf)
 
 
 ### 2018
-- Fei Yang, Qian Zhang, Miaohui Wang, Guoping Qiu .[Quality Classified Image Analysis with Application to Face Detection and  Recognition](https://arxiv.org/pdf/1801.06445) .[J] arXiv preprint arXiv:1801.06445.
-- Alexandre Attia, Sharone Dayan .[Detecting and counting tiny faces](https://arxiv.org/pdf/1801.06504) .[J] arXiv preprint arXiv:1801.06504.
-- Changzheng Zhang, Xiang Xu, Dandan Tu .[Face Detection Using Improved Faster RCNN](https://arxiv.org/pdf/1802.02142) .[J] arXiv preprint arXiv:1802.02142.
-- Anand Bhattad, Jason Rock, David Forsyth .[Detecting Anomalous Faces with 'No Peeking' Autoencoders](https://arxiv.org/pdf/1802.05798) .[J] arXiv preprint arXiv:1802.05798.
-- Yue Xi, Jiangbin Zheng, Xiangjian He, Wenjing Jia, Hanhui Li.[Beyond Context: Exploring Semantic Similarity for Tiny Face Detection](https://arxiv.org/pdf/1803.01555) .[J] arXiv preprint arXiv:1803.01555.
-- Xiao Song, Xu Zhao, Tianwei Lin.[Face Spoofing Detection by Fusing Binocular Depth and Spatial Pyramid  Coding Micro-Texture Features](https://arxiv.org/pdf/1803.04722) .[J] arXiv preprint arXiv:1803.04722.
-- Pouya Samangouei, Mahyar Najibi, Larry Davis, Rama Chellappa.[Face-MagNet: Magnifying Feature Maps to Detect Small Faces](https://arxiv.org/pdf/1803.05258) .[J] arXiv preprint arXiv:1803.05258.<br>[code:[po0ya/face-magnet](https://github.com/po0ya/face-magnet)]
-- Zhiwen Shao, Zhilei Liu, Jianfei Cai, Lizhuang Ma .[Deep Adaptive Attention for Joint Facial Action Unit Detection and Face  Alignment](https://arxiv.org/pdf/1803.05588) .[J] arXiv preprint arXiv:1803.05588.
-- 【PyramidBox】Xu Tang, Daniel K. Du, Zeqiang He, Jingtuo Liu .[PyramidBox: A Context-assisted Single Shot Face Detector](https://arxiv.org/pdf/1803.07737) .[J] arXiv preprint arXiv:1803.07737.<br>[code:[PaddlePaddle/face_detection](https://github.com/PaddlePaddle/models/tree/develop/fluid/face_detection)]
-- 【Dataset】Andreas Rössler, Davide Cozzolino, Luisa Verdoliva, Christian Riess, Justus Thies, Matthias Nießner .[FaceForensics: A Large-scale Video Dataset for Forgery Detection in  Human Faces](https://arxiv.org/pdf/1803.09179) .[J] arXiv preprint arXiv:1803.09179.
-- Guanjun Guo, Hanzi Wang, Yan Yan, Jin Zheng, Bo Li .[A Fast Face Detection Method via Convolutional Neural Network](https://arxiv.org/pdf/1803.10103) .[J] arXiv preprint arXiv:1803.10103.
-- Gregor Lenz, Sio-Hoi Ieng, Ryad Benosman .[Event-based Dynamic Face Detection and Tracking Based on Activity](https://arxiv.org/pdf/1803.10106) .[J] arXiv preprint arXiv:1803.10106.
-- Peng Zhou, Xintong Han, Vlad I. Morariu, Larry S. Davis .[Two-Stream Neural Networks for Tampered Face Detection](https://arxiv.org/pdf/1803.11276) .[J] arXiv preprint arXiv:1803.11276.<br>[code url in paper:[MKLab-ITI/image-forensics](https://github.com/MKLab-ITI/image-forensics); [MarekKowalski/FaceSwap](https://github.com/MarekKowalski/FaceSwap/)]
-- Zhongzheng Ren, Yong Jae Lee, Michael S. Ryoo .[Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/pdf/1803.11556) .[J] arXiv preprint arXiv:1803.11556.<br>[code:[jason718.github.io](https://jason718.github.io/project/privacy/main.html)]
-- Saurav Jha, Nikhil Agarwal, Suneeta Agarwal .[Towards Improved Cartoon Face Detection and Recognition Systems](https://arxiv.org/pdf/1804.01753) .[J] arXiv preprint arXiv:1804.01753.<br>[code url in paper:[nagadomi/animeface-2009](https://github.com/nagadomi/animeface-2009); [kaggle/facial-keypoints-detection](https://www.kaggle.com/c/facial-keypoints-detection)]
-- Guanglu Song, Yu Liu, Ming Jiang, Yujie Wang, Junjie Yan, Biao Leng .[Beyond Trade-off: Accelerate FCN-based Face Detector with Higher  Accuracy](https://arxiv.org/pdf/1804.05197) .[J] arXiv preprint arXiv:1804.05197.
+- [Quality Classified Image Analysis with Application to Face Detection and  Recognition](https://arxiv.org/pdf/1801.06445)
+- [Detecting and counting tiny faces](https://arxiv.org/pdf/1801.06504)
+- [Face Detection Using Improved Faster RCNN](https://arxiv.org/pdf/1802.02142)
+-[Detecting Anomalous Faces with 'No Peeking' Autoencoders](https://arxiv.org/pdf/1802.05798)
+- [Beyond Context: Exploring Semantic Similarity for Tiny Face Detection](https://arxiv.org/pdf/1803.01555)
+- [Face-MagNet: Magnifying Feature Maps to Detect Small Faces](https://arxiv.org/pdf/1803.05258) / **Code**: [po0ya/face-magnet](https://github.com/po0ya/face-magnet)]
+- [Deep Adaptive Attention for Joint Facial Action Unit Detection and Face  Alignment](https://arxiv.org/pdf/1803.05588)
+- [**PyramidBox**: A Context-assisted Single Shot Face Detector](https://arxiv.org/pdf/1803.07737)  / **Code**: [PaddlePaddle/face_detection](https://github.com/PaddlePaddle/models/tree/develop/fluid/face_detection)
+- [A Fast Face Detection Method via Convolutional Neural Network](https://arxiv.org/pdf/1803.10103)
+- [Event-based Dynamic Face Detection and Tracking Based on Activity](https://arxiv.org/pdf/1803.10106) 
+- [Learning to Anonymize Faces for Privacy Preserving Action Detection](https://arxiv.org/pdf/1803.11556) / **Code**: [jason718.github.io](https://jason718.github.io/project/privacy/main.html)
+- [Towards Improved Cartoon Face Detection and Recognition Systems](https://arxiv.org/pdf/1804.01753) [code url in paper:[nagadomi/animeface-2009](https://github.com/nagadomi/animeface-2009); [kaggle/facial-keypoints-detection](https://www.kaggle.com/c/facial-keypoints-detection)]
+- [Beyond Trade-off: Accelerate FCN-based Face Detector with Higher  Accuracy](https://arxiv.org/pdf/1804.05197)
 - Xuepeng Shi, Shiguang Shan, Meina Kan, Shuzhe Wu, Xilin Chen .[Real-Time Rotation-Invariant Face Detection with Progressive Calibration  Networks](https://arxiv.org/pdf/1804.06039) .[J] arXiv preprint arXiv:1804.06039.<br>[code:[Jack-CV/FaceKit](https://github.com/Jack-CV/FaceKit)]
 - Jianfeng Wang, Ye Yuan, Boxun Li, Gang Yu, Sun Jian .[SFace: An Efficient Network for Face Detection in Large Scale Variations](https://arxiv.org/pdf/1804.06559) .[J] arXiv preprint arXiv:1804.06559.
 - Yuqian Zhou, Ding Liu, Thomas Huang .[Survey of Face Detection on Low-quality Images](https://arxiv.org/pdf/1804.07362) .[J] arXiv preprint arXiv:1804.07362.
