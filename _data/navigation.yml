@@ -31,4 +31,7 @@ wiki:
         url: /wiki/face-attribute/
       - title: "人脸解析"
         url: /wiki/face-parsing/
-      
+  - title: "工程笔记"
+    children:
+      - title: "工程资料"
+        url: /wiki/engineering/
