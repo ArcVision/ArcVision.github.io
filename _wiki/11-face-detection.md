@@ -7,6 +7,14 @@ last_modified_at: 2020-08-08
 toc: true
 ---
 
+## 典型问题
+
+### 正负样本划分、Anchor 匹配等  
+
+[S3FD][3DFD]: 1）将匹配阈值从0.5调降到0.35增加匹配个数， 同时2）对于匹配个数较少的人脸降低阈值到0.1， 晒全重叠度前N的 Anchor.
+
+[S3FD]: https://arxiv.org/abs/1708.05237
+
 ## 开源方案
 
 - [Ultra-Light-Fast-Generic-Face-Detector-1MB](https://github.com/Linzaer/Ultra-Light-Fast-Generic-Face-Detector-1MB)
