@@ -11,7 +11,7 @@ toc: true
 
 ### 模型增强、特征融合等
 
-[ParamidBox][PyramidBox]认为网络最高两层的特征由于 1）尺度太大，抽象过高；2）感受野过大，可能引入不干净的上下文信息（noisy context feature), 作者提出`LFPN` 将 [FPN][FPN] 的上采样层变为倒二层开始。
+[PyramidBox][PyramidBox]认为网络最高两层的特征由于 1）尺度太大，抽象过高；2）感受野过大，可能引入不干净的上下文信息（noisy context feature), 作者提出`LFPN` 将 [FPN][FPN] 的上采样层变为倒二层开始。
 
 
 ### 正负样本划分、Anchor 匹配等  
@@ -21,7 +21,7 @@ toc: true
 
 ### 数据增益方法
 
-[ParamidBox][PyramidBox] 提出 **Data-anchor-sampling**: 对于每张图片，随机从中选取一张人脸， 根据大小得到尺寸最接近的 anchor。 再从最小的 anchor 和 两倍这个anchor之间随机选取一个anchor， 用这个anchor作为选取的人脸要缩放的目标大小。根据这个缩放系数，将图片进行缩放， 在裁剪出网络需要的输入大小。该增益方式趋向于将选取的人脸往小的方向进行缩放，有利于将提高小人脸的占比，同时将大人脸变小，提高了小人连的多样性。
+[PyramidBox][PyramidBox] 提出 **Data-anchor-sampling**: 对于每张图片，随机从中选取一张人脸， 根据大小得到尺寸最接近的 anchor。 再从最小的 anchor 和 两倍这个anchor之间随机选取一个anchor， 用这个anchor作为选取的人脸要缩放的目标大小。根据这个缩放系数，将图片进行缩放， 在裁剪出网络需要的输入大小。该增益方式趋向于将选取的人脸往小的方向进行缩放，有利于将提高小人脸的占比，同时将大人脸变小，提高了小人连的多样性。
 
 [DSFD][DSFD]
 
