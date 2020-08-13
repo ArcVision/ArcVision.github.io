@@ -11,20 +11,25 @@ toc: true
 
 ### 模型增强、特征融合等
 
-[ParamidBox][ParamidBox]认为网络最高两层的特征由于 1）尺度太大，抽象过高；2）感受野过大，可能引入不干净的上下文信息（noisy context feature), 作者提出`LFPN` 将 [FPN][FPN] 的上采样层变为倒二层开始。
+[ParamidBox][PyramidBox]认为网络最高两层的特征由于 1）尺度太大，抽象过高；2）感受野过大，可能引入不干净的上下文信息（noisy context feature), 作者提出`LFPN` 将 [FPN][FPN] 的上采样层变为倒二层开始。
 
-[ParamidBox]: https://arxiv.org/pdf/1803.07737.pdf
-[FPN]: https://arxiv.org/abs/1612.03144
 
 ### 正负样本划分、Anchor 匹配等  
 
 [S3FD][S3FD]: 1）将匹配阈值从0.5调降到0.35增加匹配个数， 同时2）对于匹配个数较少的人脸降低阈值到0.1， 晒全重叠度前N的 Anchor.
 [HAMBox][HAMBox] 观察到， 未匹配的 Anchor 展现出很强的回归能力，很大一部分的未匹配Anchor能够回归出于真值人脸重叠度非常高的框。基于这个观察，作者在训练中对这部分Anchor进行补偿， 即将这一部分中质量较高的框纳入正样本和回归的范畴
 
+### 数据增益方法
+
+[ParamidBox][PyramidBox] 提出 **Data-anchor-sampling**: 对于每张图片，随机从中选取一张人脸， 根据大小得到尺寸最接近的 anchor。 再从最小的 anchor 和 两倍这个anchor之间随机选取一个anchor， 用这个anchor作为选取的人脸要缩放的目标大小。根据这个缩放系数，将图片进行缩放， 在裁剪出网络需要的输入大小。该增益方式趋向于将选取的人脸往小的方向进行缩放，有利于将提高小人脸的占比，同时将大人脸变小，提高了小人连的多样性。
+
+[DSFD][DSFD]
+
 [S3FD]: https://arxiv.org/abs/1708.05237
 [HAMBox]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.pdf
-
-
+[PyramidBox]: https://arxiv.org/pdf/1803.07737.pdf
+[FPN]: https://arxiv.org/abs/1612.03144
+[DSFD]: http://arxiv.org/abs/1810.10220
 
 ## 开源方案
 
