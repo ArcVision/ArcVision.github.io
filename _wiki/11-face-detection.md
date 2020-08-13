@@ -9,6 +9,13 @@ toc: true
 
 ## 典型问题
 
+### 模型增强、特征融合等
+
+[ParamidBox][ParamidBox]认为网络最高两层的特征由于 1）尺度太大，抽象过高；2）感受野过大，可能引入不干净的上下文信息（noisy context feature), 作者提出`LFPN` 将 [FPN][FPN] 的上采样层变为倒二层开始。
+
+[ParamidBox]: https://arxiv.org/pdf/1803.07737.pdf
+[FPN]: https://arxiv.org/abs/1612.03144
+
 ### 正负样本划分、Anchor 匹配等  
 
 [S3FD][S3FD]: 1）将匹配阈值从0.5调降到0.35增加匹配个数， 同时2）对于匹配个数较少的人脸降低阈值到0.1， 晒全重叠度前N的 Anchor.
