@@ -1,5 +1,5 @@
 ---
-title: "属性识别"
+title: "人脸识别"
 permalink: /wiki/face-recognition/
 last_modified_at: 2020-08-08
 # redirect_from:
