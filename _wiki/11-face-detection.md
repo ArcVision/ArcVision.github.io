@@ -21,9 +21,9 @@ toc: true
 
 ### 数据增益方法
 
-[PyramidBox][PyramidBox] 提出 **Data-anchor-sampling**: 对于每张图片，随机从中选取一张人脸， 根据大小得到尺寸最接近的 anchor。 再从最小的 anchor 和 两倍这个anchor之间随机选取一个anchor， 用这个anchor作为选取的人脸要缩放的目标大小。根据这个缩放系数，将图片进行缩放， 在裁剪出网络需要的输入大小。该增益方式趋向于将选取的人脸往小的方向进行缩放，有利于将提高小人脸的占比，同时将大人脸变小，提高了小人连的多样性。
+[PyramidBox][PyramidBox] 提出 **Data-anchor-sampling**: 对于每张图片，随机从中选取一张人脸， 根据大小得到尺寸最接近的 anchor。 再从最小的 anchor 和 两倍这个anchor之间随机选取一个anchor， 用这个anchor作为选取的人脸要缩放的目标大小。根据这个缩放系数，将图片进行缩放， 在裁剪出网络需要的输入大小。该增益方式趋向于将选取的人脸往小的方向进行缩放，有利于将提高小人脸的占比，同时将大人脸变小，提高了小人连的多样性。[DSFD][DSFD] 中的 **IMA** 采用了类似的采样方式，增大人脸匹配到 anchor 的概率。
 
-[DSFD][DSFD]
+
 
 [S3FD]: https://arxiv.org/abs/1708.05237
 [HAMBox]: https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_HAMBox_Delving_Into_Mining_High-Quality_Anchors_on_Face_Detection_CVPR_2020_paper.pdf
