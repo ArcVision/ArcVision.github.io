@@ -16,3 +16,16 @@ permalink: /wiki/face-reconstruction/
 - [AaronJackson/vrn](https://github.com/AaronJackson/vrn)
 - [unibas-gravis/basel-face-pipeline](https://github.com/unibas-gravis/basel-face-pipeline)
 - [unibas-gravis/scalismo-faces](https://github.com/unibas-gravis/scalismo-faces)
+
+## Papers
+
+### Deep Methods  
+- [CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images](https://arxiv.org/abs/1708.00980)
+
+### Fitting Algorithms  
+
+### Model Learning
+
+- [Learning a model of facial shape and expression from {4D} scans](https://is.tuebingen.mpg.de)
+- [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
+- [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190)
