@@ -5,12 +5,10 @@ toc: true
 permalink: /wiki/face-reconstruction/
 ---
 
-## Workshops
+## Workshops  
+- [Fourth Workshop on Computer Vision for AR/VR](https://www.mixedreality.cs.cornell.edu/workshop/2020/papers)
 
-- https://www.mixedreality.cs.cornell.edu/workshop/2020/papers
-
-## Repositories
-
+## Repositories  
 - [3DFace](https://github.com/Juyong/3DFace)
 - [waps101/3DMM_edges](https://github.com/waps101/3DMM_edges)
 - [AaronJackson/vrn](https://github.com/AaronJackson/vrn)
@@ -19,13 +17,12 @@ permalink: /wiki/face-reconstruction/
 
 ## Papers
 
-### Deep Methods  
+### Deep Methods   
 - [CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images](https://arxiv.org/abs/1708.00980)
 
 ### Fitting Algorithms  
 
-### Model Learning
-
+### Model Learning  
 - [Learning a model of facial shape and expression from {4D} scans](https://is.tuebingen.mpg.de)
 - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
 - [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190)
