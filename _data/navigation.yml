@@ -31,6 +31,9 @@ wiki:
         url: /wiki/face-attribute/
       - title: "人脸解析"
         url: /wiki/face-parsing/
+      - title: "人脸重建"
+        url: /wiki/face-reconstruction/
+        
   - title: "工程笔记"
     children:
       - title: "工程资料"
