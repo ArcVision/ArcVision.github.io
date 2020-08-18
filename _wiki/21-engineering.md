@@ -17,3 +17,5 @@ toc: true
   所以， 分布式训练的时候， 学习率只要考虑每个节点对应的batch-size下的学习率即可， 不需要根据节点的个数缩放学习率！
   - [Should we split batch_size according to ngpu_per_node when DistributedDataparallel](https://discuss.pytorch.org/t/should-we-split-batch-size-according-to-ngpu-per-node-when-distributeddataparallel/72769)
   - [DistributedDataParallel loss compute and backpropogation?](https://discuss.pytorch.org/t/distributeddataparallel-loss-compute-and-backpropogation/47205)
+- **BN 问题**  
+  - [How does Dataparallel handels batch norm?](https://discuss.pytorch.org/t/how-does-dataparallel-handels-batch-norm/14040/2)
