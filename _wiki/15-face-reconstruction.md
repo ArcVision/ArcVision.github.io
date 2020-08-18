@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Face Reconstruction"
+title: "人脸重建"
 toc: true
 permalink: /wiki/face-reconstruction/
 ---
