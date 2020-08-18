@@ -2,6 +2,7 @@
 layout: single
 title: "Face Reconstruction"
 toc: true
+permalink: /wiki/face-reconstruction/
 ---
 
 ## Workshops
