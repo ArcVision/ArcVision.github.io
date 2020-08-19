@@ -14,6 +14,7 @@ toc: true
 ### 物体旋转问题
 
 [Oriented Object Detection in Aerial Images with Box Boundary-Aware Vector][BBA-Vectors]  
+
 [BBA-Vectors]: https://arxiv.org/pdf/2008.07043v1.pdf
 
 ## Papers
