@@ -20,6 +20,7 @@ toc: true
 [Oriented Object Detection in Aerial Images with Box Boundary-Aware Vector][BBA-Vectors]  
 [遥感旋转目标检测方法解读（CSL, ECCV2020）](https://zhuanlan.zhihu.com/p/111493759)  
 [旋转目标(遥感/文字)检测方法整理（2017-19年）](https://zhuanlan.zhihu.com/p/98703562)
+[【论文阅读】倾斜目标范围框(标注)的终极方案](https://zhuanlan.zhihu.com/p/150780620)
 
 [BBA-Vectors]: https://arxiv.org/pdf/2008.07043v1.pdf
 
