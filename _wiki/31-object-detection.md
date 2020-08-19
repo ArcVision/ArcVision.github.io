@@ -14,6 +14,7 @@ toc: true
 ### 物体旋转问题
 
 [Oriented Object Detection in Aerial Images with Box Boundary-Aware Vector][BBA-Vectors]  
+[遥感旋转目标检测方法解读（CSL, ECCV2020）](https://zhuanlan.zhihu.com/p/111493759)  
 
 [BBA-Vectors]: https://arxiv.org/pdf/2008.07043v1.pdf
 
