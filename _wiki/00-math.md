@@ -13,6 +13,5 @@ toc: true
 - 微积分
   - [Calculus, Gilbert Strang, MIT](https://ocw.mit.edu/ans7870/resources/Strang/Edited/Calculus/Calculus.pdf)
 - 线性代数, 矩阵论
-  - 
-
-- 
+- 概率论  
+  - [Transformations of Random Variables](https://www.math.arizona.edu/~jwatkins/f-transform.pdf)
