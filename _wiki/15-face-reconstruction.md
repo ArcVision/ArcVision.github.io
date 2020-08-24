@@ -49,3 +49,6 @@ permalink: /wiki/face-reconstruction/
   - repository: [menpo/lsfm](https://github.com/menpo/lsfm)
   - [Large Scale 3D Morphable Models](https://link.springer.com/article/10.1007/s11263-017-1009-7)
   - [A 3D Morphable Model learnt from 10,000 faces](https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf)
+
+#### Mesh Manipulation  
+  - [Deformation Transfer for Triangle Meshes](https://www.cs.toronto.edu/~jacobson/seminar/sumner-and-popovic-2004.pdf)
