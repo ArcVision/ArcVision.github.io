@@ -29,6 +29,13 @@ permalink: /wiki/face-reconstruction/
 - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
 - [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190) 
 
+#### [Basel Face Model](https://faces.dmi.unibas.ch/bfm/bfm2019.html)  
+  - [A 3D Face Model for Pose and Illumination Invariant Face Recognition](https://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf) / [HomePage](https://faces.dmi.unibas.ch/bfm/?nav=1-0&id=basel_face_model)
+  - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398) / [HomePage](https://faces.dmi.unibas.ch/bfm/bfm2017.html)
+
+#### [Surrey Face Model](https://cvssp.org/faceweb/3dmm/facemodels/)  
+  - [A Multiresolution 3D Morphable Face Model and Fitting Framework](http://www.ee.surrey.ac.uk/CVSSP/Publications/papers/Huber-VISAPP-2016.pdf)
+
 #### [Large Scale Facial Model (LSFM)](https://github.com/menpo/lsfm)  
   - [Large Scale 3D Morphable Models](https://link.springer.com/article/10.1007/s11263-017-1009-7)
   - [A 3D Morphable Model learnt from 10,000 faces](https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf)
