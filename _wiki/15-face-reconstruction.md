@@ -21,12 +21,14 @@ permalink: /wiki/face-reconstruction/
 ### Deep Methods   
 - [CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images](https://arxiv.org/abs/1708.00980)
 
-### Fitting Algorithms  
+### Fitting Algorithms   
+ - [waps101/3DMM_edges](https://github.com/waps101/3DMM_edges)
 
 ### Model Construction  
 - [Learning a model of facial shape and expression from {4D} scans](https://is.tuebingen.mpg.de)
 - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
-- [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190)  
+- [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190) 
+
 #### [Large Scale Facial Model (LSFM)](https://github.com/menpo/lsfm)  
   - [Large Scale 3D Morphable Models](https://link.springer.com/article/10.1007/s11263-017-1009-7)
   - [A 3D Morphable Model learnt from 10,000 faces](https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf)
