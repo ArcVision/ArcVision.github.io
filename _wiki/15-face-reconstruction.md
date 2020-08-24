@@ -35,6 +35,7 @@ permalink: /wiki/face-reconstruction/
   - [HomePage](https://facescape.nju.edu.cn/)
   - [Repository](https://github.com/zhuhao-nju/facescape)
   - [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://arxiv.org/pdf/2003.13989.pdf) / [Supplementary](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_FaceScape_A_Large-Scale_CVPR_2020_supplemental.zip)
+  - [52 expression templates](https://drive.google.com/file/d/1OuAUVMrBzEyRumOqFg3SUjehAUBK7Hn9/view)
 
 #### FaceWarehouse  
   - [FaceWarehouse: a 3D Facial Expression Database for Visual Computing](http://kunzhou.net/zjugaps/facewarehouse/)
