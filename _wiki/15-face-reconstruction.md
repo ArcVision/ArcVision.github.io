@@ -29,6 +29,9 @@ permalink: /wiki/face-reconstruction/
 - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
 - [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190) 
 
+#### FaceWarehouse  
+  - [FaceWarehouse: a 3D Facial Expression Database for Visual Computing](http://kunzhou.net/zjugaps/facewarehouse/)
+
 #### [Basel Face Model](https://faces.dmi.unibas.ch/bfm/bfm2019.html)  
   - [A 3D Face Model for Pose and Illumination Invariant Face Recognition](https://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf) / [HomePage](https://faces.dmi.unibas.ch/bfm/?nav=1-0&id=basel_face_model)
   - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398) / [HomePage](https://faces.dmi.unibas.ch/bfm/bfm2017.html)
