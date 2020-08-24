@@ -14,6 +14,7 @@ permalink: /wiki/face-reconstruction/
 - [AaronJackson/vrn](https://github.com/AaronJackson/vrn)
 - [unibas-gravis/basel-face-pipeline](https://github.com/unibas-gravis/basel-face-pipeline)
 - [unibas-gravis/scalismo-faces](https://github.com/unibas-gravis/scalismo-faces)
+- [menpo/lsfm][https://github.com/menpo/lsfm]
 
 ## Papers
 
