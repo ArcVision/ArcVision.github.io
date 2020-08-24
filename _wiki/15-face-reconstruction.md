@@ -29,6 +29,11 @@ permalink: /wiki/face-reconstruction/
 - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
 - [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190) 
 
+#### FaceScape  
+  - [HomePage](https://facescape.nju.edu.cn/)
+  - [Repository](https://github.com/zhuhao-nju/facescape)
+  - [FaceScape: a Large-scale High Quality 3D Face Dataset and Detailed Riggable 3D Face Prediction](https://arxiv.org/pdf/2003.13989.pdf)
+
 #### FaceWarehouse  
   - [FaceWarehouse: a 3D Facial Expression Database for Visual Computing](http://kunzhou.net/zjugaps/facewarehouse/)
 
