@@ -23,7 +23,8 @@ permalink: /wiki/face-reconstruction/
 
 ### Fitting Algorithms  
 
-### Model Learning  
+### Model Construction  
 - [Learning a model of facial shape and expression from {4D} scans](https://is.tuebingen.mpg.de)
 - [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
 - [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190)
+- [Large Scale Facial Model (LSFM)](https://github.com/menpo/lsfm)
