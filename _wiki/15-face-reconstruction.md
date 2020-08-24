@@ -29,3 +29,4 @@ permalink: /wiki/face-reconstruction/
 - [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190)  
 #### [Large Scale Facial Model (LSFM)](https://github.com/menpo/lsfm)  
   - [Large Scale 3D Morphable Models](https://link.springer.com/article/10.1007/s11263-017-1009-7)
+  - [A 3D Morphable Model learnt from 10,000 faces](https://ibug.doc.ic.ac.uk/media/uploads/documents/0002.pdf)
