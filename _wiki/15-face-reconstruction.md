@@ -16,6 +16,7 @@ permalink: /wiki/face-reconstruction/
 - [unibas-gravis/scalismo-faces](https://github.com/unibas-gravis/scalismo-faces)
 - [menpo/lsfm](https://github.com/menpo/lsfm)
 - [Non-rigid iterative closest point](https://github.com/charlienash/nricp)
+- [rhdodds/warp3d](https://github.com/rhdodds/warp3d)  
 
 ## Papers
 
