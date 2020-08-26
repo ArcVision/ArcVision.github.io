@@ -5,7 +5,9 @@ last_modified_at: 2020-08-11
 toc: true
 ---
 
-## Linux
+## Linux  
+- [Fix The Google GPG Error on Ubuntu](https://www.omgubuntu.co.uk/2017/08/fix-google-gpg-key-linux-repository-error)
+- [CudaDockerFile](https://gitlab.com/nvidia/container-images/cuda/-/tree/master/dist/ubuntu18.04/10.1)
 
 ## PyTorch
 
