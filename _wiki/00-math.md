@@ -15,3 +15,4 @@ toc: true
 - 线性代数, 矩阵论
 - 概率论  
   - [Transformations of Random Variables](https://www.math.arizona.edu/~jwatkins/f-transform.pdf)
+  - [Z-score standardization](https://en.wikipedia.org/wiki/Standard_score)
