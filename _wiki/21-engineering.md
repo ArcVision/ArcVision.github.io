@@ -24,6 +24,9 @@ toc: true
 10. use checkpointing to recompute memory-intensive compute-efficient ops in bwd pass(eg activations, upsampling, ...)
 11. use `@torch.jit.script`, e.g. esp to fuse long sequences of pointwise ops like GELU
 
+[PyTorch Performance Tuning Guide](https://www.youtube.com/watch?v=9mS1fIYj1So)
+
+
 ### 分布式训练  
 - 分布式训练相关资料  
   - [Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
