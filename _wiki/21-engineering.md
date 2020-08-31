@@ -11,6 +11,19 @@ toc: true
 
 ## PyTorch
 
+### 加速技巧  
+1. DataLoader with `num_workers > 0` and `pin_memory = True`
+2. `torch.backends.cudnn.benchmark = True` to autotune cudnn kernel choice
+3. max out the batch size for each GPU to ammortize compute
+4. `bias = False` before BatchNorms
+5. use `for p in model.parameters(): p.grad = None` instead of `model.zero_grad()`
+6. careful to disable debug APIs in prod(detect_anomaly/profiler/emit_nvtx/gradcheck...)
+7. prefer `DistributedDataParallel` to `DataParallel`
+8. balance load among GPUs
+9. use an apex fused optimizer(default PyTorch optim for loo iterates individual params, yikes)
+10. use checkpointing to recompute memory-intensive compute-efficient ops in bwd pass(eg activations, upsampling, ...)
+11. use `@torch.jit.script`, e.g. esp to fuse long sequences of pointwise ops like GELU
+
 ### 分布式训练  
 - 分布式训练相关资料  
   - [Distributed model training in PyTorch using DistributedDataParallel](https://spell.ml/blog/pytorch-distributed-data-parallel-XvEaABIAAB8Ars0e)
