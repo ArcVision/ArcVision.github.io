@@ -17,7 +17,7 @@ permalink: /wiki/face-reconstruction/
 - [menpo/lsfm](https://github.com/menpo/lsfm)
 - [Non-rigid iterative closest point](https://github.com/charlienash/nricp)
 - [rhdodds/warp3d](https://github.com/rhdodds/warp3d)  
-
+- [cleardusk/3DDFA_V2](https://github.com/cleardusk/3DDFA_V2)
 
 ## Deep Methods   
 - [CNN-based Real-time Dense Face Reconstruction with Inverse-rendered Photo-realistic Face Images](https://arxiv.org/abs/1708.00980)
