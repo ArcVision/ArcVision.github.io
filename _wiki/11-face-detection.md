@@ -29,6 +29,12 @@ toc: true
 [FPN]: https://arxiv.org/abs/1612.03144
 [DSFD]: http://arxiv.org/abs/1810.10220
 
+### NMS 方法
+
+* Non-maximum Suppression (NMS)
+* Soft-NMS [[1]](https://arxiv.org/abs/1704.04503)
+* Non-maximum weighted (NMW) [[2]](http://openaccess.thecvf.com/content_ICCV_2017_workshops/papers/w14/Zhou_CAD_Scale_Invariant_ICCV_2017_paper.pdf)
+* **Weighted boxes fusion (WBF)** [[3]](https://arxiv.org/abs/1910.13302) - new method which gives better results comparing to others 
 
 ## 开源方案
 
