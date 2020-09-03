@@ -25,10 +25,13 @@ permalink: /wiki/face-reconstruction/
 ## Fitting Algorithms   
  - [waps101/3DMM_edges](https://github.com/waps101/3DMM_edges)
 
-## Model Construction  
-- [Learning a model of facial shape and expression from {4D} scans](https://is.tuebingen.mpg.de)
-- [Morphable Face Models - An Open Framework](http://arxiv.org/abs/1709.08398)
-- [Optimal Step Nonrigid ICP Algorithms for Surface Registration](https://ieeexplore.ieee.org/abstract/document/4270190) 
+## Model Vendors  
+
+| Name | Resources |
+| ---- | --------- |
+| FaceScap | [HomePage](https://facescape.nju.edu.cn/), [Paper](https://arxiv.org/pdf/2003.13989.pdf), [Supplements](https://openaccess.thecvf.com/content_CVPR_2020/supplemental/Yang_FaceScape_A_Large-Scale_CVPR_2020_supplemental.zip), [Code](https://github.com/zhuhao-nju/facescape), [52 expression templates](https://drive.google.com/file/d/1OuAUVMrBzEyRumOqFg3SUjehAUBK7Hn9/view) |
+| FaceWareHouse | [Home](http://kunzhou.net/zjugaps/facewarehouse/) |
+| Basel Face Model(BFM) | [Home](https://faces.dmi.unibas.ch/bfm/bfm2017.html), [BFM2009](https://gravis.dmi.unibas.ch/publications/2009/BFModel09.pdf), [BFM2017](http://arxiv.org/abs/1709.08398) |
 
 ### FaceScape  
   - [HomePage](https://facescape.nju.edu.cn/)
