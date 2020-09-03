@@ -37,3 +37,6 @@ toc: true
   - [DistributedDataParallel loss compute and backpropogation?](https://discuss.pytorch.org/t/distributeddataparallel-loss-compute-and-backpropogation/47205)
 - **BN 问题**  
   - [How does Dataparallel handels batch norm?](https://discuss.pytorch.org/t/how-does-dataparallel-handels-batch-norm/14040/2)
+
+## C++ 问题  
+- [弱引用弱回调](http://files.cppblog.com/Solstice/dtor_meets_mt.pdf)
